@@ -44,7 +44,7 @@
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" groups="device" />
   <project path="device/google/atv" name="device/google/atv" groups="device,fugu,broadcom_pdk,generic_fs" />
   <project path="device/sample" name="device/sample" groups="pdk" />
-   <project path="device/samsung/tuna" name="android_device_samsung_tuna" groups="device,tuna" remote="werty100" revision="aosp-6.0" />
+   <project path="device/samsung/tuna" name="android_device_samsung_tuna" groups="device,tuna" remote="werty100" revision="master" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" />
   <project path="external/android-clat" name="platform/external/android-clat" groups="pdk-cw-fs,pdk-fs" />
@@ -299,7 +299,7 @@
   <project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" groups="pdk" />
   <project path="hardware/ril" name="android_hardware_ril" remote="omap4-aosp" revision="aosp-6.0" groups="pdk" />
   <project path="hardware/ti/omap4" name="android_hardware_ti_omap4" remote="omap4-aosp" revision="aosp-6.0" groups="omap4" />
-  <project path="kernel/samsung/tuna" name="android_kernel_samsung_tuna" groups="device,tuna" remote="werty100" revision="aosp-6.0" />
+  <project path="kernel/samsung/tuna" name="android_kernel_samsung_tuna" groups="device,tuna" remote="werty100" revision="master" />
   <project path="libcore" name="platform/libcore" groups="pdk" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk" />
   <project path="ndk" name="platform/ndk" groups="generic_fs" />
